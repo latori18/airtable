@@ -1,0 +1,23 @@
+{
+  "name": "airtable-timeline",
+  "version": "1.0.0",
+  "description": "Airtable Timeline",
+  "scripts": {
+    "start": "parcel src/index.html --open"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.11",
+    "autoprefixer": "^10.4.21",
+    "date-fns": "^4.1.0",
+    "postcss": "^8.5.6",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "tailwindcss": "^4.1.11"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.9",
+    "@types/react-dom": "^19.1.7",
+    "parcel": "^2.0.0",
+    "typescript": "^5.9.2"
+  }
+}
